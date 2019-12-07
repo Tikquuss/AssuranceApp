@@ -9,5 +9,5 @@ UML, JEE, Servlet, JSP, EL, JSTL, Hibernate.
 
 # Contributeurs 
 Tamghuo Fotsi Hartnel Kritikos : kritikostamghuo@gmail.com  
-NforEsperance (nforesperance1@gmail.com
+NforEsperance : nforesperance1@gmail.com  
 Mutia Dayebga Babila : roybmutia@gmail.com
