@@ -1,20 +1,20 @@
 # AssuranceApp 
-Logiciel de gestion d'une société d'assurance maladie
+Management software for a health insurance company.
 
-# Cadre de réalisation du projet
-Projet de fin de semestre en programmation orienté objet 2 et Conception des Systèmes d’information, Ecole Nationale Supérieure Polytechnique, Troisieme année Genie Informatique, Mai 2019
+# Project implementation context
+End of semester project in object-oriented programming 2 and Information Systems Design, National Advanced School of Engineering Yaounde, Third year Computer Engineering, May 2019.
 
-# Technologies utilisées 
+# Technologies used 
 UML, JEE, Servlet, JSP, EL, JSTL, Hibernate.
 
-# Contributeurs 
-Tamghuo Fotsi Hartnel Kritikos : kritikostamghuo@gmail.com  
+# Contributors 
+Tamghuo Fotsi Hartnel Kritikos : [hartnel](https://github.com/hartnel)
 Nfor Esperance : nforesperance1@gmail.com  
 Mutia Dayebga Babila : roybmutia@gmail.com
 
-# Erreur apparues lors du push sur Github à propos des fichiers très lourds à ajouter manuelement au projets apres le clonage
+# Error appeared during the push on Github about the very heavy files to add manually to the projects after cloning
 Username for 'https://github.com': Tikquuss  
-Password for 'https://Tikquuss@github.com':  
+Password for 'https://Tikquuss@github.com': ****************  
 Décompte des objets: 2480, fait.  
 Delta compression using up to 8 threads.  
 Compression des objets: 100% (2356/2356), fait.  
